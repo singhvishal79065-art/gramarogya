@@ -1,0 +1,29 @@
+.medicine-card {
+  width: 260px;
+  padding: 25px;
+  background: white;
+  border: 2px solid #4d88e8;
+  border-radius: 14px;
+  text-align: center;
+  box-shadow: 0 3px 10px rgba(0,0,0,0.08);
+}
+
+.medicine-card h3 {
+  font-size: 18px;
+  color: #1b2363;
+}
+
+.medicine-card p {
+  font-size: 14px;
+  color: #666;
+  margin: 8px 0 14px;
+}
+
+.medicine-card button {
+  background: #2f6ee1;
+  color: white;
+  padding: 8px 20px;
+  border-radius: 8px;
+  border: none;
+  font-weight: 500;
+}

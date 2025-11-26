@@ -1,0 +1,43 @@
+.medicine-page {
+  padding: 40px 50px;
+}
+
+.medicine-page h1 {
+  font-size: 30px;
+  margin-bottom: 30px;
+}
+
+.medicine-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 35px;
+}
+
+.medicine-card {
+  width: 250px;
+  background: white;
+  border: 2px solid #4a68ff;
+  border-radius: 15px;
+  padding: 25px 20px;
+  text-align: center;
+}
+
+.medicine-card h3 {
+  font-size: 18px;
+  color: #1e2a78;
+  margin-bottom: 10px;
+}
+
+.medicine-card p {
+  font-size: 14px;
+  color: #666;
+  margin-bottom: 18px;
+}
+
+.medicine-card button {
+  background: #4a68ff;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 8px;
+}
