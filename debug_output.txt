@@ -1,0 +1,22 @@
+Total Appointments: 2
+
+Appointment ID: 69280a0326ae1b421eb59c16
+Doctor ID: 6928085410ca2db374ef8452
+Patient ID: 6928090bf593e124661b5f35
+Date: Sat Nov 29 2025 05:30:00 GMT+0530 (India Standard Time)
+Doctor Name: Dr. John Doe
+Patient Name: satyam singhal
+
+Appointment ID: 692c2112b919af0b416f2f07
+Doctor ID: 692c203fb919af0b416f2eeb
+Patient ID: 692c1f6bb919af0b416f2ed8
+Date: Fri Nov 21 2025 05:30:00 GMT+0530 (India Standard Time)
+Doctor Name: sanjay mital singh
+Patient Name: sanjay mital singh
+
+--- All Doctors ---
+Name: Dr. John Doe, ID: 6928085410ca2db374ef8452, Email: doctor@gmail.com
+Name: Dr. Sarah Smith, ID: 6928085410ca2db374ef8453, Email: sarah@gmail.com
+Name: Dr. Amit Patel, ID: 6928085410ca2db374ef8454, Email: amit@gmail.com
+Name: vishal, ID: 69280ace26ae1b421eb59c4a, Email: vishalko1420@gmail.com
+Name: sanjay mital singh, ID: 692c203fb919af0b416f2eeb, Email: shivambhist123@gmail.com

@@ -1,0 +1,46 @@
+i make the MERN stack healthcare project in which user can create account in four roles shopkeeper , patient , Doctor , Admin and each role has it's own feature 
+
+Patient side : - in this patient has it's dashboard
+	       
+	- patient can have the doctor link in the his navbar in which if patient click patient can see 
+	     all doctors login in website with their specialisation patient can filter the doctor using filter 		 and can have a chat with doctor and also can send the appointment to the doctor with some note 		 which optional and then track the request on his dashboard until doctor doesnot accept the		 request patient can having chatting with that doctor by navigation on chat section 
+
+	- patient also have medicines nav link in the nav bar in which patient purchase the medicines like add 	  to cart and then purchase it and after payment patient can track the medicine deleviery status like  	  when it will be delivered 
+	- the history of patient also stores in history section which having the details consulatant doctor 	  name  , cause , preciption , suggested medicines and when click on the doctor name the doctors 	  details with his image description all things will appear for patient 
+	- patient also can give feedback to the doctor which show on that doctors profile 
+
+Doctor side - in this doctor has to be create account by specifying the specialisation by selecting from filter
+	      and fill with number and then sending the request to the admin for registeration and after that                     	      it request show on admmin dashboard
+             - and after accepting the request doctor have it's own dashboard in which he handle his profile 	      chats all things like see the all request coming from the patient and can approve and decline 	      the request after that in message that patient is add for chatting and also patient have the 	       accepting status from doctor as per request and can have chatting with doctor 
+	     - doctor also can purchase the medicines 
+	     - also having his history of patients and preciption that what suggested medicines and analytic sympotms etc  and all essential information
+	     - and also doctor can make the profile better so that when patient click on the doctor page and 		then after click on the name of the doctor patient can redirect to his profile in new tab so 		that patient also can check all things about doctors 
+	     -and doctors also have all features of patient 
+
+shopkeeper side -in this shopkeeper has to be create account by specifying the medicines by selecting from filter
+	      and fill with number and then sending the request to the admin for registeration and after that                     	      it request show on admmin dashboard just like doctor but in another section 
+	  - after approvalable from admin for registeration shopkeeper can manage the business on his dashboard like whatever medicines patient and doctor paid that will go on the shopkeeper dashboard so that shopkeeper send the status to clients 
+	  - shopkeeper also all features of patient so that shopkeeper also consult with doctors and preciption and purchase medicines etc 
+
+
+Admin side - should be having the all essential requests like the shopkeeper and doctor requests for status and  having their details for contact them and then they also can approve or decline 
+	and having all info of patients , doctors and shopkeeper and their medicines that
+
+
+patient also can make a report for the doctor and doctor and patient both can request something to the admin wand all this request or reports will show on the admin side and they can approve or decline or can solved or unsolved status on the report or request also users and doctors and shopkeepers having the track the their reports and requests on their sides 
+ 
+overall theme should medical and name the website as gramarogya and ui should be userfriendly 
+
+
+make the project report according to the given fromat file or according to the given template file 
+ 
+
+
+
+
+
+
+
+	
+
+	 	
